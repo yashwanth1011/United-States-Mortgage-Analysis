@@ -1,3 +1,5 @@
+# GitHub Repository Structure
+```
 usa-mortgage-analysis/
 │
 ├── data/
@@ -17,4 +19,6 @@ usa-mortgage-analysis/
 │
 ├── .gitignore              # Ignore large files, temp data, Tableau cache
 ├── README.md               # Project introduction & setup guide
-└── LICENSE                 # License (if open source)
+
+
+```
